@@ -1,5 +1,5 @@
 const path = require('path');
-let name = "index";
+let name = "app";
 module.exports={
   entry:`./src/${name}.tsx`,
   output:{
